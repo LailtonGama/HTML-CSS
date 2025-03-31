@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+h1, h2{
+    font-size: 80px;
+    font-family: fantasy
+}
+
+p{
+   
+}
+body{
+    background-color: rgb(222, 150, 150);
+    font-family: serif
+}
